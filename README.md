@@ -25,6 +25,7 @@ CSV and JSON files
 
 150,000+ rows with labeled features
 
-Citation:  
+## Citation
 If you use this dataset, please cite:
-“2D_Semiconductor_150k_Master_Dataset, Zenodo DOI: [10.5281/zenodo.23255547]”
+MD Nahid Hasan Rimon, 2D_Semiconductor_150k_Master_Dataset, Zenodo (DOI: 10.5281/zenodo.23255547)
+
